@@ -50,6 +50,7 @@ class CI_Parser {
 		return $this->_parse($template, $data, $return);
 	}
 
+
 	// --------------------------------------------------------------------
 
 	/**
